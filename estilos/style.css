@@ -1,5 +1,8 @@
 @charset "utf-8"
 
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+font-family: 'Oswald', sans-serif;
+
 *{
 }
 
@@ -137,4 +140,8 @@ ul{
   .social > a > img{
       width: 75px;
       height: 75px;
+  }
+
+  .titulo-social{
+    font-family: 'Oswald', sans-serif;
   }
