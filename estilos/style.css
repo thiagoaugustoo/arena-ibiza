@@ -137,3 +137,7 @@ ul{
 #close:hover{
     opacity: 0.6;
 }
+
+.cartao{
+    max-height: 25vh;
+}
