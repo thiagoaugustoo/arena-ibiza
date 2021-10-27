@@ -65,9 +65,11 @@ ul{
 }
 
 .voltar{
+    width: 25px;
+    height: 25px;
     position: relative;
-    right: 250px;
-    top: 20px;
+    right: -25px;
+    top: 25px;
 }
 
 .voltar > a > img{
