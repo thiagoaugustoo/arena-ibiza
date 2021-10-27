@@ -102,11 +102,12 @@ ul{
   }
 
   .modal > div {
-    width: 300px;
+    width: 275px;
     position: relative;
     margin: 10% auto;
     padding: 15px 20px;
-    background: #fff;
+    background: rgb(251, 225, 200);
+    border-radius: 10px;
   }
 
   .fechar {
